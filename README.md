@@ -1,4 +1,5 @@
 🎵 AI Powered Music Generator Based on User Mood
+![image alt]()
 
 Overview
 AI Powered Music Generator Based on User Mood is a real-time intelligent web application that detects the user's emotion through facial expressions using deep learning and recommends suitable music instantly.
