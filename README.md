@@ -1,9 +1,3 @@
----
-title: AI Powered Music Generator Based on User Mood
-sdk: gradio
-python_version: "3.10"
----
-
 🎵 AI Powered Music Generator Based on User Mood
 ![image alt](https://github.com/amit4888/AI-Powered-Music-Generator-Based-On-User-Mood/blob/993a2168fb0c05cc19d13cb5e33a16fcb31b0a0a/Screenshot%202026-01-04%20163248.png)
 
